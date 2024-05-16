@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Tiago, and it's a pleasure to welcome you here.
 
 - :electric_plug: I have a degree in Electrical Engineering.
 - 🔭 I'm not currently working, but I'm completing the Systems Analysis and Development university.
