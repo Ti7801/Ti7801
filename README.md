@@ -1,7 +1,7 @@
 
 ### Hi there 👋 Welcome to my GitHub!
 
-I'm **Tiago Daltro**, and it's a pleasure to have you here! I'm passionate about technology and dedicated to learning and building impactful projects in software development.
+I'm **Tiago**, and it's a pleasure to have you here! I'm passionate about technology and dedicated to learning and building impactful projects in software development.
 
 - 🎓 **Degree in Electrical Engineering**  
 - 📚 Finalizing my studies in **Systems Analysis and Development**
