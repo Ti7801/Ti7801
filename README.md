@@ -3,8 +3,8 @@
 
 I'm **Tiago**, and it's a pleasure to have you here! I'm passionate about technology and dedicated to learning and building impactful projects in software development.
 
-- 🎓 **Degree in Electrical Engineering**  
-- 📚 Finalizing my studies in **Systems Analysis and Development**
+- 🎓 **Graduated in Electrical Engineering**  
+- 📚 **Graduated in Systems Analysis and Development**
 - 💻 Currently building projects in **.NET**
 - 👀 Actively seeking opportunities as a **Software Developer**
 
