@@ -26,7 +26,7 @@ I'm **Tiago**, and it's a pleasure to have you here! I'm passionate about techno
 
 ### ⚡ Tech Stack
 
-I enjoy working across different areas of development, particularly with .NET | C# | ASP.NET CORE | API REST |. Here are some of the technologies I frequently use:
+I primarily work with Java and have strong experience with C#, focusing on backend development and RESTful APIs. Here are some of the technologies I frequently use:
 
 - <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> `Java`
   
