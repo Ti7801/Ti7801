@@ -28,6 +28,8 @@ I'm **Tiago**, and it's a pleasure to have you here! I'm passionate about techno
 
 I enjoy working across different areas of development, particularly with .NET | C# | ASP.NET CORE | API REST |. Here are some of the technologies I frequently use:
 
+- <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> `Java`
+  
 - <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> `C#`
 
 - <img align="center" alt="SQL Server" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"> `SQL Server`
